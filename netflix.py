@@ -34,3 +34,4 @@ cliente1.mudar_plano("premium")
 print(cliente1.plano)
 
 cliente1.ver_filme("Homem-Aranha", "premium")
+
